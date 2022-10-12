@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charleslc
 - 👀 I’m interested in ~Sing, dance, rap, basketball~ (Code and Running、Fitting、Swim)
 - 🌱 I’m currently learning RL(MARL, DRL, GNN)
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on (i am finding)
 - 📫 How to reach me ... lc1411279054@gmail.com
 
 <!---
